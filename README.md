@@ -10,3 +10,4 @@ test done first
 building and testing the code
 New try for building a code
 Finally the code has been build successfully
+tried automation
